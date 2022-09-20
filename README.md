@@ -1,5 +1,8 @@
 # practice-lab
-This repo is used as part of one of my labs, add your name to the end of the file.
+This repo is used as part of my Git practice lab, add your name to the __END__ of the file.
+
+## Names of people who have completed the lab (hall of fame)
+
 Michael
 Fernanda
 Ross
