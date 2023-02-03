@@ -2,7 +2,7 @@
 This repo is used as part of my Git practice lab, add your name to the __END__ of the file.
 
 ## Names of people who have completed the lab
-Lewis
+
 Michael
 Fernanda
 Ross
@@ -19,3 +19,4 @@ Corinn
 Elham
 Faizan
 Kevin
+lewis
