@@ -19,4 +19,7 @@ Corinn
 Elham
 Faizan
 Kevin
+James
+Jose
 Krzysztof
+
