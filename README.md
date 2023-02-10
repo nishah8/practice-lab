@@ -19,4 +19,11 @@ Corinn
 Elham
 Faizan
 Kevin
-lewis
+James
+Jose
+Krzysztof
+Rory
+Rachel
+Mark
+Cameron
+Lewis
