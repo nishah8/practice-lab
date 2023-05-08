@@ -31,4 +31,4 @@ Jaime
 Balram
 Lewis
 William
-Tevhide Turkmen
+Tevhide
