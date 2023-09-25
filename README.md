@@ -3,7 +3,6 @@ This repo is used as part of my Git practice lab, add your name to the __END__ o
 
 ## Names of people who have completed the lab
 
-Nikola
 Michael
 Fernanda
 Ross
@@ -32,3 +31,4 @@ Jaime
 Balram
 Lewis
 William
+Nikola
