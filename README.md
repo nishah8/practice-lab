@@ -1,5 +1,5 @@
 # practice-lab
-This repo is used as part of my Git practice lab, add your name to the __END__ of the file.
+This repo is used as part of my Git practice lab, add your name to the __END__ of the file. You were doing well in life, and you'll be doing 10x better when your name is merged into this file.
 
 ## Names of people who have completed the lab
 Michael
