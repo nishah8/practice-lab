@@ -47,3 +47,4 @@ Nikola
 Leon
 Camila
 Lukasz
+Bartosz
