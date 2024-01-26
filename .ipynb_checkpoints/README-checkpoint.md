@@ -46,8 +46,5 @@ Ivan
 Nikola
 Leon
 Camila
-Ciaran
 Lukasz
-Raul
-Rodi
-Bartosz
+Raul :)
