@@ -49,8 +49,6 @@ Camila
 Ciaran
 Lukasz
 Bartosz
-Jiehong
-Alberto
 Bilal
 Karol
 Daniel
@@ -59,5 +57,6 @@ Colm
 Raul
 Rodi
 Bartosz
-Aron
 Nicky
+Alberto
+
