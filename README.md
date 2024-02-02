@@ -48,6 +48,8 @@ Leon
 Camila
 Ciaran
 Lukasz
+Bartosz
+Alberto
 Bilal
 Karol
 Daniel
@@ -57,3 +59,4 @@ Raul
 Rodi
 Bartosz
 Aron
+Nicky
