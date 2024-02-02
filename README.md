@@ -48,6 +48,8 @@ Leon
 Camila
 Ciaran
 Lukasz
+Bartosz
+Alberto
 Bilal
 Karol
 Daniel
@@ -56,4 +58,4 @@ Colm
 Raul
 Rodi
 Bartosz
-Nicky EC1952949
+Nicky
