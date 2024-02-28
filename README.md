@@ -62,4 +62,7 @@ Bartosz
 Aron
 Nicky
 Deividas
+Ruth
+Lynsey
+Anja
 Jane C
