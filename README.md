@@ -70,4 +70,5 @@ Michael
 Yulia
 James
 Kerry
-LauraC
+Laura C
+Chloe
