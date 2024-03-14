@@ -70,4 +70,6 @@ Michael
 Yulia
 James
 Kerry
-MairiB
+Laura C
+Chloe
+Mairi B
