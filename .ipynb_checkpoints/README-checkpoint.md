@@ -48,10 +48,7 @@ Leon
 Camila
 Ciaran
 Lukasz
-Alfie
 Bartosz
-Jiehong
-Alberto
 Bilal
 Karol
 Daniel
@@ -60,21 +57,6 @@ Colm
 Raul
 Rodi
 Bartosz
-Aron
 Nicky
-Deividas
-Ruth
-Lynsey
-Anja
-Jane C
-Michael
-Yulia
-James
-Kerry
-Laura C
-Chloe
-Mairi B
-Justyna
-Farheena
-Richard
-Michaele
+Alberto
+
